@@ -1,4 +1,6 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+import Home from './pages/Home';
 import './App.css'
 
 function App() {
@@ -15,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
