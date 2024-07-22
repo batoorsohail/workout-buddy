@@ -20,7 +20,7 @@ const WorkoutForm = () => {
     const json = await response.json();
 
     if(!response.ok) {
-      setError(error.message);
+      setError(json.error);
     }
     if(response.ok) {
       setTitle('')
