@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>>Workout Buddy</h2>
+  <h2>Workout Buddy</h2>
 
 </div>
 
@@ -11,23 +11,17 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🗎 API Documentation ](#-api-documentation-)
-  - [ Kanban Board ](#-kanban-board-)
-  - [ React Frontend ](#-react-frontend-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
-    - [Prerequisites](#prerequisites-1)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 # 📖 WorkoutbBuddy <a name="about-project"></a>
@@ -80,8 +74,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 In order to run this project you need:
 
