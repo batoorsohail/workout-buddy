@@ -28,6 +28,8 @@
 
 **Workout Buddy** is a Full-stack website. The application allows users to sign up, log in, and manage their workouts by adding or deleting them.
 
+https://github.com/user-attachments/assets/dd1d2dc7-cfeb-460a-8fe2-0daf684591b7
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
