@@ -30,9 +30,9 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 RideEase <a name="about-project"></a>
+# 📖 WorkoutbBuddy <a name="about-project"></a>
 
-**Workout BUddy** is a Full-stack website. The application allows users to sign up, log in, and manage their workouts by adding or deleting them.
+**Workout Buddy** is a Full-stack website. The application allows users to sign up, log in, and manage their workouts by adding or deleting them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,11 +42,6 @@
   <summary>Server</summary>
   <ul>
     <li>Express</li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
     <li>Node</li>
   </ul>
 </details>
@@ -65,8 +60,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- User Authentication: Users can sign up and log in securely.
-- Workout Management: Logged-in users can add, view, and delete their workouts.
+- User Authentication: Users can sign up and login securely.
+- Workout Management: Logged-in users can add, view, and delete workouts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +133,7 @@ To run the project, execute the following command:
 <u>**For Backend**</u>
 
 ```sh
-  Create a .env file and put below lines inside it
+  Create a .env file and put the below lines inside it
   PORT=4000
   MONGO_URI=(YOUR MONGO Database online link)
   SECRET=(Add SECRET KEY FOR AUTH)
@@ -190,9 +185,9 @@ If you like this project, kindly give me a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to acknowledge:
+I want to acknowledge:
 
-- [NetNinja YouTube Channel](https://www.youtube.com/@NetNinja) for the great toutorial
+- [NetNinja YouTube Channel](https://www.youtube.com/@NetNinja) for the great tutorial.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
