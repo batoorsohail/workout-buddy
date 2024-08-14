@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2><b>RideEase</b><br><small>Workout Buddy</small></h2>
+  <h2>>Workout Buddy</h2>
 
 </div>
 
