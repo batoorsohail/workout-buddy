@@ -24,9 +24,27 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 WorkoutbBuddy <a name="about-project"></a>
+# 📖 Workout Buddy <a name="workout-buddy"></a>
 
-**Workout Buddy** is a Full-stack website. The application allows users to sign up, log in, and manage their workouts by adding or deleting them.
+**Workout Buddy** is a full-stack fitness tracking web application that allows users to manage their workouts. Built with the MERN stack (MongoDB, Express.js, React, Node.js), this app enables users to:
+
+🔐 Sign up, log in, and securely sign out
+
+➕ Add workouts with details including:
+
+Title (e.g. Bench Press)
+
+Load (kg)
+
+Reps
+
+🗑️ Delete individual workouts
+
+📦 Backend API with JWT authentication
+
+🧠 Global state management using Context API or Redux (based on your implementation)
+
+It provides a simple and user-friendly interface for fitness enthusiasts to track their progress and manage their exercises.
 
 https://github.com/user-attachments/assets/dd1d2dc7-cfeb-460a-8fe2-0daf684591b7
 
