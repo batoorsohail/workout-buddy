@@ -42,7 +42,7 @@ Reps
 
 📦 Backend API with JWT authentication
 
-🧠 Global state management using Context API or Redux (based on your implementation)
+🧠 Global state management using Context API
 
 It provides a simple and user-friendly interface for fitness enthusiasts to track their progress and manage their exercises.
 
